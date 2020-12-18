@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.seekingforfriends.ScrollingActivity">
+    <item
+        android:id="@+id/anketa"
+        android:orderInCategory="100"
+        android:title="@string/anketa"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/messages"
+        android:orderInCategory="100"
+        android:title="@string/message"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/friends"
+        android:orderInCategory="100"
+        android:title="@string/friends"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logOut"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+</menu>

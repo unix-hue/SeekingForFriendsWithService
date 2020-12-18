@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Поиск друзей</string>
+    <string name="anketa">Моя анкета</string>
+    <string name="message">Мои сообщения</string>
+    <string name="friends">Мои друзья</string>
+    <string name="title_activity_anketa">Моя анкета</string>
+    <string name="logOut">Разлогиниться</string>
+    <string name="deleteAkk">Удалить аккаунт</string>
+    <string name="notData">Нет данных</string>
+    <string name="logout">Разлогиниться</string>
+</resources>

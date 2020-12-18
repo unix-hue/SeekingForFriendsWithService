@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225101973885",
+    "firebase_url": "https://seekingforfriends-95ed4.firebaseio.com",
+    "project_id": "seekingforfriends-95ed4",
+    "storage_bucket": "seekingforfriends-95ed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225101973885:android:5d78031e5851696f936414",
+        "android_client_info": {
+          "package_name": "com.example.seekingforfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225101973885-p2pjfl74jmv58d5emrn4b5gh868kaptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4D-0QYc0U_iZZsEDwCQtsIm7y2N7mtwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225101973885-p2pjfl74jmv58d5emrn4b5gh868kaptg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.seekingforfriends.AnketaActivity">
+    <item
+        android:id="@+id/logOut"
+        android:orderInCategory="100"
+        android:title="@string/logOut"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/delakk"
+        android:orderInCategory="100"
+        android:title="@string/deleteAkk"
+        app:showAsAction="never" />
+</menu>
